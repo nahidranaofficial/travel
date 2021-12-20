@@ -1,0 +1,213 @@
+@media (min-width: 1400px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #title {
+        padding: 90px 0 194px;
+        text-align: center;
+        position: relative;
+    }
+
+    #title .title_text img {
+        padding-bottom: 30px;
+    }
+
+    #title .title_text h3 {
+        font-size: 54px;
+    }
+
+    #title .title_text input {
+        height: 50px;
+        width: 55%;
+        font-size: 20px;
+        left: 140px;
+    }
+
+    #title .title_text button {
+        font-size: 22px;
+        width: 20%;
+        height: 50px;
+        right: 140px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #title {
+        padding: 90px 0 216px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 25px;
+        width: 255px;
+    }
+
+    #title .title_text h3 {
+        font-size: 52px;
+    }
+
+    #title .title_text p {
+        font-size: 20px;
+        width: 100%;
+        line-height: 24px;
+        padding-top: 40px;
+        padding-bottom: 75px;
+    }
+
+    #title .title_text h5 {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    #title .title_text input {
+        height: 42px;
+        width: 50%;
+        padding-left: 12px;
+        font-size: 16px;
+        left: 100px;
+        border-radius: 12px;
+    }
+
+    #title .title_text button {
+        font-size: 16px;
+        width: 28%;
+        height: 42px;
+        right: 100px;
+        border-radius: 12px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #title {
+        padding: 90px 0 250px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 25px;
+        width: 255px;
+    }
+
+    #title .title_text h3 {
+        font-size: 38px;
+    }
+
+    #title .title_text p {
+        font-size: 20px;
+        width: 100%;
+        line-height: 24px;
+        padding-top: 40px;
+        padding-bottom: 75px;
+    }
+
+    #title .title_text h5 {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    #title .title_text input {
+        height: 42px;
+        width: 66%;
+        padding-left: 12px;
+        font-size: 16px;
+        left: 10px;
+        border-radius: 12px;
+    }
+
+    #title .title_text button {
+        font-size: 16px;
+        width: 30%;
+        height: 42px;
+        right: 10px;
+        border-radius: 12px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #title {
+        padding: 90px 0 281px;
+    }
+
+    #title .title_text img {
+        padding-bottom: 25px;
+        width: 248px;
+    }
+
+    #title .title_text h3 {
+        font-size: 28px;
+    }
+
+    #title .title_text p {
+        font-size: 18px;
+        width: 100%;
+        line-height: 22px;
+        padding-top: 40px;
+        padding-bottom: 75px;
+    }
+
+    #title .title_text h5 {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    #title .title_text input {
+        height: 40px;
+        width: 66%;
+        padding-left: 12px;
+        font-size: 16px;
+        left: 8px;
+        border-radius: 12px;
+    }
+
+    #title .title_text button {
+        font-size: 16px;
+        width: 30%;
+        height: 40px;
+        right: 8px;
+        border-radius: 12px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    #title {
+        padding: 90px 0 328px;
+        text-align: center;
+        position: relative;
+    }
+
+    #title .title_text img {
+        padding-bottom: 25px;
+        width: 230px;
+    }
+
+    #title .title_text h3 {
+        font-size: 24px;
+    }
+
+    #title .title_text p {
+        font-size: 16px;
+        width: 100%;
+        line-height: 22px;
+        padding-top: 40px;
+        padding-bottom: 75px;
+    }
+
+    #title .title_text h5 {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    #title .title_text input {
+        height: 36px;
+        width: 62%;
+        padding-left: 12px;
+        font-size: 14px;
+        left: 8px;
+        border-radius: 10px;
+    }
+
+    #title .title_text button {
+        font-size: 16px;
+        width: 30%;
+        height: 36px;
+        right: 8px;
+        border-radius: 10px;
+    }
+}
